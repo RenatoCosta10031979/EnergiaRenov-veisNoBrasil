@@ -62,7 +62,7 @@ Neste repositório, você encontrará os seguintes notebooks e scripts:
 ## **Dasboards**
 
 - [Looker Studio Dashboard](https://github.com/RenatoCosta10031979/EnergiaRenovaveisNoBrasil/blob/main/dashboards/LookerStudio.pdf): Acesse o dashboard criado com Looker Studio para visualização  detalhada de dados relacionados a Energias Renováveis no Brasil.
-- - [Power BI Dashboard](https://github.com/RenatoCosta10031979/EnergiaRenovaveisNoBrasil/blob/main/dashboards/PowerBI.pdf): Explore o dashboard desenvolvido no Power BI para análise visual de dados sobre Energias Renováveis no Brasil.
+-  [Power BI Dashboard](https://github.com/RenatoCosta10031979/EnergiaRenovaveisNoBrasil/blob/main/dashboards/PowerBI.pdf): Explore o dashboard desenvolvido no Power BI para análise visual de dados sobre Energias Renováveis no Brasil.
 - [Notebook de Dashboards](https://github.com/RenatoCosta10031979/EnergiaRenovaveisNoBrasil/blob/main/dashboards/dashboards.ipynb): Acesse o notebook que contém a implementação dos dashboards para visualização interativa de dados sobre Energias Renováveis no Brasil.
 
 ## **Slide Apresentação Projeto Final**
